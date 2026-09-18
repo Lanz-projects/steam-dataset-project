@@ -1,0 +1,24 @@
+# Python
+.venv/
+__pycache__/
+*.py[cod]
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Local tools
+.vscode/
+.idea/
+
+# Secrets
+.env
+.env.*
+
+# Large raw and processed data
+/Steam_Dataset/
+/data/raw/
+/data/processed/
+
+# Temporary files
+*.log
+.DS_Store
